@@ -7,6 +7,10 @@ This project contains:
 -the buzzer immediately gives an audible bip for some seconds and then buzzes continually in the presence of gas
 - the Liquid Crystal Display(LCD) visually notify users of alerts.
 -the LCD also display when the environment of the users is safe(i.e when no gas is detected).
+ 
+ **Usage:**
+ -Just open this ino file with Arduino IDE and play.
+ -Assume that you connected the components correctly.
 
 
 
