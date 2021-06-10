@@ -30,3 +30,5 @@ LCD | 8
 2.Tinkercad(a Web appilication that simulates our project using the source code)
 Image of simulation![Screenshot (102)](https://user-images.githubusercontent.com/83757220/121539084-df455c00-c9f4-11eb-8b11-aca7379bb378.png)
 Link to simulation:https://www.tinkercad.com/things/5K7lRwhfJxj-project-work/editel?sharecode=XvTkJMTq0vw2VRDFVeiPVesGfoL2fBa1Z9DTeqxHjuA
+This link references the libraries,function, structures and variables used in the code.
+https://www.arduino.cc/reference/en/
