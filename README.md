@@ -32,3 +32,7 @@ Image of simulation![Screenshot (102)](https://user-images.githubusercontent.com
 Link to simulation:https://www.tinkercad.com/things/5K7lRwhfJxj-project-work/editel?sharecode=XvTkJMTq0vw2VRDFVeiPVesGfoL2fBa1Z9DTeqxHjuA
 This link references the libraries,function, structures and variables used in the code.
 https://www.arduino.cc/reference/en/
+Such as the 
+Liquid Crystal Display Library:
+This library allows an Arduino board to control Liquid Crystal displays (LCDs) based on the Hitachi HD44780 (or a compatible) chipset, which is found on most text-based LCDs. The library works with in either 4- or 8-bit mode.
+
