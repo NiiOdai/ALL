@@ -9,8 +9,10 @@ This project contains:
 -the LCD also display when the environment of the users is safe(i.e when no gas is detected).
  
  **Usage:**
- -Just open this ino file with Arduino IDE and play.
- -Assume that you connected the components correctly.
+  -Connect the components correctly as shown in the image at the later part of the page.
+ -Clone repository in order to alter variable in the sourcecode to suit environment.
+ -Just open this ino file with Arduino IDE and upload to the prototype.
+
 
 
 
@@ -24,9 +26,9 @@ Gas Sensor|A1
 Buzzer | 6
 LCD | 8
 
-*Jumper wires
-*220 Ohms resistor
-*Arduino UNO R3 
+<li>Jumper wires</li>
+<li>220 Ohms resistor</li>
+<li>Arduino UNO R3 </li>
 
 ## Software requirements
 
@@ -37,15 +39,15 @@ Image of simulation!
 [Screenshot (102)](https://user-images.githubusercontent.com/83757220/121539084-df455c00-c9f4-11eb-8b11-aca7379bb378.png)
 
 
-**Link to simulation:**
+<b>Link to simulation:</b>
 https://www.tinkercad.com/things/5K7lRwhfJxj-project-work/editel?sharecode=XvTkJMTq0vw2VRDFVeiPVesGfoL2fBa1Z9DTeqxHjuA
 
 This link references the libraries,function, structures and variables used in the code.
 https://www.arduino.cc/reference/en/
 Such as the
-**Liquid Crystal Display Library:**
+<b>Liquid Crystal Display Library:</b>
 
-This library allows an Arduino board to control Liquid Crystal displays (LCDs) based on the Hitachi HD44780 (or a compatible) chipset, which is found on most text-based LCDs. The library works with in either 4- or 8-bit mode.
+This library allows an Arduino board to control Liquid Crystal displays (LCDs) based on the Hitachi HD44780 (or a compatible) chipset, which is found on most text-based LCDs. The library works with in either 4- or 8-bit mode but this project's LCD is in 4-bit mode.
 
 
 # Contributor Covenant Code of Conduct
@@ -87,6 +89,7 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
 
 [homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
+[version]: http://contributor-covenant.org/version/1/4/.
 
+<h1>The repository will be maintained by collaboraters.</h1>
 
